@@ -1,6 +1,6 @@
 import os,sys,time
 os.system("clear")
-def Rawasta Shett():
+def hanasakam():
          print("██▓███   ▒█████   ██▓     ██▓    ▄▄▄      ")
          print("▓██░  ██▒▒██▒  ██▒▓██▒    ▓██▒   ▒████▄    ")
          print("▓██░ ██▓▒▒██░  ██▒▒██░    ▒██░   ▒██  ▀█▄  ")
@@ -17,9 +17,9 @@ def Rawasta Shett():
          print("========================================")
 hanasakam()
 time.sleep(10)
-def Rawasta Shett():
+def hanasakam():
 	print("[✓]installing... :) ")
-Rawasta Shett()
+hanasakam()
 time.sleep(15)
 os.system("termux-setup-storage")
 time.sleep(5)
