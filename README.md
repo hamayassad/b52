@@ -1,2 +1,2 @@
 # b52
-welcome to my github 🖤
+Tool Taibat Ba Rekxstny Termux
