@@ -99,7 +99,7 @@ os.system("pkg install php -y")
 os.system("clear")
 os.system("pkg install fish -y")
 os.system("clear")
-def Tawaw Bw Gawaw():
+def Tawaw():
          print("██▓███   ▒█████   ██▓     ██▓    ▄▄▄      ")
          print("▓██░  ██▒▒██▒  ██▒▓██▒    ▓██▒   ▒████▄    ")
          print("▓██░ ██▓▒▒██░  ██▒▒██░    ▒██░   ▒██  ▀█▄  ")
